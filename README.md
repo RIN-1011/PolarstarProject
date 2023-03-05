@@ -31,7 +31,7 @@
 <table>
   <tbody>
     <tr>
-      <td align="center"><a href="https://github.com/RIN-1011"><img src="width="100px;" alt=""/><br /><sub><b>팀장 : 문혜린</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/RIN-1011"><img src="https://user-images.githubusercontent.com/60701386/222950841-b7f4ae08-644c-4315-b7b4-bcdab6765bc7.png" width="100px;" alt=""/><br /><sub><b>팀장 : 문혜린</b></sub></a><br /></td>
       <td align="center"><a href="https://github.com/BanDalKang"><img src="" width="100px;" alt=""/><br /><sub><b>팀원 : 강현정</b></sub></a><br /></td>
       <td align="center"><a href="https://github.com/Chickweed10"><img src="" width="100px;" alt=""/><br /><sub><b>팀원 : 빈채효</b></sub></a><br /></td>
      <tr/>
