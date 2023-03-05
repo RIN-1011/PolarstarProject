@@ -1,7 +1,7 @@
 # 북극성
 <p align="center"><img src="https://user-images.githubusercontent.com/60701386/222951483-1482d67a-d142-4a5c-84bc-090be39b7a7b.png" width="300px">
- <br/>
-북극성 대표 캐릭터 
+<br/>
+[북극성 대표 캐릭터] 
 </p>
 
 <br/>
