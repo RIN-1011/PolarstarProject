@@ -58,7 +58,7 @@
 ### Development <br/>
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Java&logoColor=white"> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/>
 ### Communication <br/>
-<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"> <img src="https://img.shields.io/badge/Google Meet-00897B?style=flat-square&logo=Google Meet&logoColor=white"> <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=white"> 
+<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"> <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"> <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=white"> 
 <br/>
 
 ## 🏷️ APIs
