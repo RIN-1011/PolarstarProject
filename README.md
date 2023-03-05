@@ -47,7 +47,7 @@
 
 ## 🏷️ APIs
 
-* NAVER Map Android SDK 3.16.1
+* NAVER Maps API
 <br/>
 
 ## 🪪 라이센스
