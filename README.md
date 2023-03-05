@@ -21,9 +21,9 @@
 <table>
   <tbody>
     <tr>
-      <td align="center"><a href="https://github.com/RIN-1011"><img src="https://user-images.githubusercontent.com/60701386/222952240-7acbf798-671a-4b22-b3fd-84acb5b0965f.jpg" width="300px;" alt=""/><br /><sub><b>팀장 : 문혜린</b></sub></a><br /></td>
-      <td align="center"><a href="https://github.com/BanDalKang"><img src="https://user-images.githubusercontent.com/60701386/222952261-1ae242a3-2963-41c0-a6ae-8ea11e747f43.jpg" width="300px;" alt=""/><br /><sub><b>팀원 : 강현정</b></sub></a><br /></td>
-      <td align="center"><a href="https://github.com/Chickweed10"><img src="" width="300px;" alt=""/><br /><sub><b>팀원 : 빈채효</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/RIN-1011"><img src="https://user-images.githubusercontent.com/60701386/222952240-7acbf798-671a-4b22-b3fd-84acb5b0965f.jpg" width="200px;" alt=""/><br /><sub><b>팀장 : 문혜린</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/BanDalKang"><img src="https://user-images.githubusercontent.com/60701386/222952261-1ae242a3-2963-41c0-a6ae-8ea11e747f43.jpg" width="200px;" alt=""/><br /><sub><b>팀원 : 강현정</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/Chickweed10"><img src="" width="200px;" alt=""/><br /><sub><b>팀원 : 빈채효</b></sub></a><br /></td>
      <tr/>
   </tbody>
 </table>
@@ -36,7 +36,7 @@
 현재 장애인 실종 신고 접수 건수는 점차 감소하고 있으나 지속해서 발생하고 있습니다.</br>
 그중 발달 장애인은 장애 특성상 실종 상황에서 자신의 상황을 인지하기 어려운데, </br> 
 장애인의 실종을 전담하는 전문 기관이 없어 전문가의 신속한 대응이 어렵습니다.</br>
-이런 상황을 개선하는 데에 조금이라도 기여하기 위해 실종 장애인 위치 파악 서비스 앱을 개발하게 됐습니다.</br>
+이런 상황을 개선하는 데에 조금이라도 기여하기 위해 장애인 위치 파악 서비스 앱을 개발하게 됐습니다.</br>
 <br/>
 
 ## 💡 주요 기능
