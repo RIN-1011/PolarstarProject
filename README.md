@@ -23,7 +23,7 @@
     <tr>
       <td align="center"><a href="https://github.com/RIN-1011"><img src="https://user-images.githubusercontent.com/60701386/223046198-487f6963-e91c-48ea-8bc4-fe158babcc3a.jpg" width="200px;" alt=""/><br /><sub><b>팀장 : 문혜린</b></sub></a><br /></td>
       <td align="center"><a href="https://github.com/BanDalKang"><img src="https://user-images.githubusercontent.com/60701386/222952261-1ae242a3-2963-41c0-a6ae-8ea11e747f43.jpg" width="200px;" alt=""/><br /><sub><b>팀원 : 강현정</b></sub></a><br /></td>
-      <td align="center"><a href="https://github.com/Chickweed10"><img src="https://user-images.githubusercontent.com/60701386/223046276-3b3c8c7e-937e-4519-af6d-d05857152018.jpg" width="200px;" alt=""/><br /><sub><b>팀원 : 빈채효</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/Chickweed10"><img src="https://user-images.githubusercontent.com/60701386/223046667-093cb0b3-36a7-4c72-9df3-e830627d7cb7.jpg" width="200px;" alt=""/><br /><sub><b>팀원 : 빈채효</b></sub></a><br /></td>
      <tr/>
   </tbody>
 </table>
